@@ -6,6 +6,11 @@
     "type": "module",
     "main": "src/index.js",
     "exports": "src/index.js",
+    "keywords": [
+        "react",
+        "hook",
+        "match-media"
+    ],
     "files": [
         "index.js"
     ],
