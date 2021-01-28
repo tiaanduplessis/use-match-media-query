@@ -1,0 +1,27 @@
+{
+    "name": "use-match-media-query",
+    "description": "Match Media as a React hook!",
+    "version": "0.0.0-dev",
+    "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
+    "type": "module",
+    "main": "src/index.js",
+    "exports": "src/index.js",
+    "files": [
+        "index.js"
+    ],
+    "license": "MIT",
+    "scripts": {
+        "lint": "standard --fix"
+    },
+    "peerDependencies": {
+        "react": "^16"
+    },
+    "devDependencies": {
+        "standard": "^16.0.3"
+    },
+    "standard": {
+        "env": {
+            "browser": true
+        }
+    }
+}
